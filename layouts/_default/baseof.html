@@ -1,5 +1,5 @@
 <!doctype HTML>
-<html>
+<html lang="en">
 
 <head>
   {{ partial "meta.html" . }}
@@ -7,8 +7,12 @@
 
 <body>
   {{ partial "nav.html" }}
-  {{ block "main" . }}
-  {{ end }}
+  <main>
+    <div class="container">
+      {{ block "main" . }}
+      {{ end }}
+    </div>
+  </main>
   {{ partial "footer.html" . }}
 </body>
 
