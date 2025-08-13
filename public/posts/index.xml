@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalism and Medievalism in Arvo Pärt</title>
+      <link>http://localhost:1313/posts/arvo-part/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/arvo-part/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is an essay I wrote for &lt;a href=&#34;https://bulletin.columbia.edu/general-studies/the-core/music-humanities/&#34;&gt;Masterpieces of Western Music&lt;/a&gt;, which I took in Spring 2025.&#xA;The prompt for the essay was to propose an introduction to the syllabus of the class, and I chose to write about Arvo Pärt.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A common sentiment expressed about the pieces and traditions covered towards the end of Masterpieces of Western Music (starting with Modernism and proceeding through American Modernism and Minimalism) is how radically different they sound from most of what is covered earlier in the course. Many of these later, highly cerebral techniques seem quite difficult to reconcile with—and indeed have no intention of according to—music that sounds traditionally &lt;em&gt;beautiful&lt;/em&gt;, that is satisfying for the layman with no knowledge of whole-tone-scales and music theory in general. This, at least, is the impression that one might get from the current Music Humanities syllabus; it is not, in fact, universally true of 20th-century music that employs avant-garde techniques, and we can see this specifically in the music of Estonian composer Arvo Pärt, in what is sometimes dubbed &amp;ldquo;holy minimalism.&amp;rdquo; This Holy Minimalism, and specifically the music of Arvo Pärt, deserves a place on the syllabus for Music Humanities because, through its blending of modernist techniques with sacred medieval music, it challenges the notion of 20th-century musical techniques as being necessarily a divergence from traditional Western music.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orthodoxy is More than a Solution to a Problem</title>
+      <link>http://localhost:1313/posts/orthodoxy-is-more-than-a-solution/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/orthodoxy-is-more-than-a-solution/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is a piece I wrote for &lt;a href=&#34;https://columbiaocf.wixsite.com/theshepherd&#34;&gt;The Shepherd&lt;/a&gt;, which is the blog site for Columbia University&amp;rsquo;s Orthodox Christian Fellowship. God forgive me for any errors it may contain.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the ways that we as modern Americans are taught to think about Jesus is that he &lt;em&gt;died for our sins&lt;/em&gt;. As someone who was raised secular, with Christianity only in the periphery of my experience as an adolescent, this was generally understood by myself and those around me to mean that humanity had some sort of legal debt that was owed because of our sin. Jesus, then, is sent by God so that he can die on the cross and suffer in our place for our sins. We are able to get off on a technicality because he received punishment in our stead, and the debt is paid off.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

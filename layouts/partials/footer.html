@@ -1,0 +1,7 @@
+{{ with .Params.hide_footer }}
+<!-- No footer here! -->
+{{ else }}
+<footer>
+  © Nathan Mandell {{ now.Year }}. This website was made in Hugo.
+</footer>
+{{ end }}
