@@ -4,3 +4,7 @@ title = 'My New Hugo Site'
 # theme = 'ananke'
 [params]
 name = "Nathan Mandell"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
