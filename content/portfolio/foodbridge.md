@@ -1,6 +1,6 @@
 ---
 title: FoodBridge — Geolocated Donation Matcher
-date: 2025-06-25
+date: 2025-02-09
 summary: A hackathon-built platform that connects local donors with nearby food pantries. I owned the **React** UI which helped food pantries see potential donors and put out requests for specific products.  
 ---
 

@@ -4,6 +4,8 @@ date: 2025-06-25
 summary: A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.
 ---
 
+**[Repo](https://github.com/nathanmandell99/QuickTask)**
+
 A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.  
 
 **Highlights**
@@ -27,4 +29,16 @@ npx expo start  # press "w" for web; scan the terminal QR with Expo Go for mobil
 **Why this project?**
 QuickTask is a small but complete example of shipping a cross-platform UI with Expo: a typed TS codebase, a frictionless local run loop, and a focused feature set that demonstrates state, basic navigation, and platform reach without extra complexity.
 
-**[Repo](https://github.com/nathanmandell99/QuickTask)**
+**Sample usage**
+
+*Create task*  
+  
+![create](/img/quicktask/create-task.gif)
+  
+*Delete task*  
+  
+![delete](/img/quicktask/delete-task.gif)
+  
+*Mark complete*  
+  
+![complete](/img/quicktask/mark-complete.gif)
