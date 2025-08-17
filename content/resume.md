@@ -12,7 +12,8 @@ title: Resume
 ## Education
 
 - **Bachelor of Arts, Computer Science**, Columbia University — GPA: 3.7  
-  *Expected May 2026*
+  *Expected May 2026*  
+  Coursework: Operating Systems, Databases, Cloud Computing, Advanced Programming, Data Structures/Algorithms
 
 - **Associate of Arts, Liberal Arts**, Borough of Manhattan Community College — GPA: 3.96  
   *August 2023*
@@ -57,7 +58,7 @@ title: Resume
 ## Skills
 
 **Languages:** Python, C, C#, Rust, HTML, CSS, JavaScript/TypeScript, MySQL  
-**Tools:** Git, GitHub, Expo, Docker, AWS, Postman  
+**Tools:** Git, GitHub, Expo, AWS, Postman  
 **Frameworks & Libraries:** Django, FastAPI, React, React Native, ASP.NET
 
 ---
