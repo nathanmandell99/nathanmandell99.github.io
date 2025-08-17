@@ -6,8 +6,6 @@ summary: A tiny, fast command-line to-do manager that persists tasks in a plain 
 
 A tiny, fast command-line to-do manager that persists tasks in a plain CSV file—simple to inspect, easy to version, and zero setup beyond the binary.  
 
-Repo available [on GitHub](https://github.com/nathanmandell99/todo-cli).
-
 **Highlights**
 - Add, list, toggle, and initialize tasks via subcommands
 - Auto-incrementing task IDs; human-readable storage
@@ -34,3 +32,5 @@ todo tasks.csv toggle 3
 ```
 **Why this project?**
 I wanted a minimal, portable task tool that favors transparency (CSV over a DB) while showcasing idiomatic Rust CLI patterns, error handling, and file I/O. The result is a compact utility that’s easy to audit, script, and commit to git.
+
+[Repo](https://github.com/nathanmandell99/todo-cli)

@@ -27,4 +27,4 @@ My experience with React in a production setting since this project has sharpene
 
 **Repos**
 - [UI](https://github.com/FoodBridge-2025/foodbridge-ui)
-- [Organization](https://github.com/orgs/FoodBridge-2025/repositories)
+- [All](https://github.com/orgs/FoodBridge-2025/repositories)
