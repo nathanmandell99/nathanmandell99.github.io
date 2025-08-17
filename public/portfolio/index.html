@@ -3,7 +3,7 @@
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
-<title> Portfolio</title>
+<title> Portfolios</title>
 
 <link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
 
@@ -14,6 +14,7 @@
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/resume/">Resume</a></li>
+    <li><a href="/portfolio/">Professional Portfolio</a></li>
     <li><a href="/posts/">Blog</a></li>
   </ul>
 </nav>
@@ -21,13 +22,49 @@
   <main>
     <div class="container">
       
-<p>Amogus!</p>
-
+<div class="content-card">
+  <h1>My Projects</h1>
+  <div class="posts-grid">
+    
+    <article class="post-preview">
+      <h3><a href="http://localhost:1313/portfolio/rust-cli/">CSV-Backed To-Do CLI (Rust)</a></h3>
+      <time datetime=" 2025-06-25" class="post-date">
+        June 25, 2025
+      </time>
+      
+      <p class="post-summary">A tiny, fast command-line to-do manager that persists tasks in a plain CSV file—simple to inspect, easy to version, and zero setup beyond the binary.</p>
+      
+    </article>
+    
+    <article class="post-preview">
+      <h3><a href="http://localhost:1313/portfolio/foodbridge/">FoodBridge — Geolocated Donation Matcher</a></h3>
+      <time datetime=" 2025-06-25" class="post-date">
+        June 25, 2025
+      </time>
+      
+      <p class="post-summary">A hackathon-built platform that connects local donors with nearby food pantries. I owned the <strong>React</strong> UI which helped food pantries see potential donors and put out requests for specific products.</p>
+      
+    </article>
+    
+    <article class="post-preview">
+      <h3><a href="http://localhost:1313/portfolio/quicktask/">QuickTask</a></h3>
+      <time datetime=" 2025-06-25" class="post-date">
+        June 25, 2025
+      </time>
+      
+      <p class="post-summary">A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.</p>
+      
+    </article>
+    
+  </div>
+</div>
 
     </div>
   </main>
   
-
+<footer>
+  © Nathan Mandell 2025. This website was made in Hugo.
+</footer>
 
 
 </body>

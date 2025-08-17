@@ -23,11 +23,25 @@
       <description>&lt;p&gt;&lt;em&gt;This is a piece I wrote for &lt;a href=&#34;https://columbiaocf.wixsite.com/theshepherd&#34;&gt;The Shepherd&lt;/a&gt;, which is the blog site for Columbia University&amp;rsquo;s Orthodox Christian Fellowship. God forgive me for any errors it may contain.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the ways that we as modern Americans are taught to think about Jesus is that he &lt;em&gt;died for our sins&lt;/em&gt;. As someone who was raised secular, with Christianity only in the periphery of my experience as an adolescent, this was generally understood by myself and those around me to mean that humanity had some sort of legal debt that was owed because of our sin. Jesus, then, is sent by God so that he can die on the cross and suffer in our place for our sins. We are able to get off on a technicality because he received punishment in our stead, and the debt is paid off.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
-      <description>&lt;p&gt;Amogus!&lt;/p&gt;</description>
+      <title>CSV-Backed To-Do CLI (Rust)</title>
+      <link>http://localhost:1313/portfolio/rust-cli/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/rust-cli/</guid>
+      <description>A tiny, fast command-line to-do manager that persists tasks in a plain CSV file—simple to inspect, easy to version, and zero setup beyond the binary.</description>
+    </item>
+    <item>
+      <title>FoodBridge — Geolocated Donation Matcher</title>
+      <link>http://localhost:1313/portfolio/foodbridge/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/foodbridge/</guid>
+      <description>A hackathon-built platform that connects local donors with nearby food pantries. I owned the &lt;strong&gt;React&lt;/strong&gt; UI which helped food pantries see potential donors and put out requests for specific products.</description>
+    </item>
+    <item>
+      <title>QuickTask</title>
+      <link>http://localhost:1313/portfolio/quicktask/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/quicktask/</guid>
+      <description>A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.</description>
     </item>
     <item>
       <title>Resume</title>

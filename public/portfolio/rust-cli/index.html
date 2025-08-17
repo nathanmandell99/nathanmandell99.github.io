@@ -1,0 +1,72 @@
+<!doctype HTML>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<title> CSV-Backed To-Do CLI (Rust)</title>
+
+<link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
+
+</head>
+
+<body>
+  <nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/resume/">Resume</a></li>
+    <li><a href="/portfolio/">Professional Portfolio</a></li>
+    <li><a href="/posts/">Blog</a></li>
+  </ul>
+</nav>
+
+  <main>
+    <div class="container">
+      
+<article class="content-card">
+  <header class="post-header">
+    <h1>CSV-Backed To-Do CLI (Rust)</h1>
+  </header>
+  <div class="post-content">
+    <p>A tiny, fast command-line to-do manager that persists tasks in a plain CSV file—simple to inspect, easy to version, and zero setup beyond the binary.</p>
+<p>Repo available <a href="https://github.com/nathanmandell99/todo-cli">on GitHub</a>.</p>
+<p><strong>Highlights</strong></p>
+<ul>
+<li>Add, list, toggle, and initialize tasks via subcommands</li>
+<li>Auto-incrementing task IDs; human-readable storage</li>
+<li><code>--create</code> flag gracefully bootstraps a new CSV on first run</li>
+<li>Robust parsing/serialization with <code>serde</code> + <code>csv</code></li>
+<li>Polished CLI UX powered by <code>clap</code> (help, version, usage)</li>
+</ul>
+<p><strong>Tech</strong></p>
+<ul>
+<li>Rust • <code>clap</code> • <code>serde</code>/<code>serde_derive</code> • <code>csv</code> • stdlib (<code>HashMap</code>, <code>OpenOptions</code>)</li>
+</ul>
+<p><strong>Sample usage</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Initialize a new list</span>
+</span></span><span style="display:flex;"><span>todo tasks.csv init
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Add a task (creates the file if missing)</span>
+</span></span><span style="display:flex;"><span>todo tasks.csv add <span style="color:#e6db74">&#34;Write portfolio blurb&#34;</span> --create
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Show tasks</span>
+</span></span><span style="display:flex;"><span>todo tasks.csv list
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Toggle completion by ID</span>
+</span></span><span style="display:flex;"><span>todo tasks.csv toggle <span style="color:#ae81ff">3</span>
+</span></span></code></pre></div><p><strong>Why this project?</strong>
+I wanted a minimal, portable task tool that favors transparency (CSV over a DB) while showcasing idiomatic Rust CLI patterns, error handling, and file I/O. The result is a compact utility that’s easy to audit, script, and commit to git.</p>
+
+  </div>
+</article>
+
+    </div>
+  </main>
+  
+<footer>
+  © Nathan Mandell 2025. This website was made in Hugo.
+</footer>
+
+
+</body>
+
+</html>

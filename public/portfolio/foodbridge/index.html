@@ -1,0 +1,71 @@
+<!doctype HTML>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<title> FoodBridge — Geolocated Donation Matcher</title>
+
+<link rel="stylesheet" href="http://localhost:1313/sass/main.min.css">
+
+</head>
+
+<body>
+  <nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/resume/">Resume</a></li>
+    <li><a href="/portfolio/">Professional Portfolio</a></li>
+    <li><a href="/posts/">Blog</a></li>
+  </ul>
+</nav>
+
+  <main>
+    <div class="container">
+      
+<article class="content-card">
+  <header class="post-header">
+    <h1>FoodBridge — Geolocated Donation Matcher</h1>
+  </header>
+  <div class="post-content">
+    <p>A hackathon-built platform that connects local donors with nearby food pantries. I owned the <strong>React</strong> UI which helped food pantries see potential donors and put out requests for specific products.</p>
+<p><strong>What we shipped (multi-repo)</strong></p>
+<ul>
+<li><strong>Web UI</strong> — React front end for donors/pantries (my scope). Org overview lists the UI alongside other services.</li>
+<li><strong>Backend service</strong> — Python API for pantries/donations consumed by the UI and mobile app.</li>
+<li><strong>Gen-AI agent</strong> — Experimental Python/Flask agent and datasets to explore smarter matching.</li>
+<li><strong>Android app</strong> — Native Kotlin app for end users.</li>
+</ul>
+<p><strong>My role (UI emphasis)</strong></p>
+<ul>
+<li>Built the <strong>list-first</strong> interface for discovering nearby pantries and posting donations quickly.</li>
+<li>Integrated <strong>OpenStreetMap</strong> for geocoding/lookup and “open in maps” navigation, keeping the app lightweight and accessible.</li>
+<li>Focused on responsive design, accessible controls, and concise, task-oriented copy.</li>
+</ul>
+<p><strong>Why this project?</strong><br>
+We aimed for practical impact at DevFest 2025: reduce friction between donors and pantries with a geolocation-aware UI, clear lists over heavy map widgets, and a modular backend/mobile stack the UI can plug into.</p>
+<p><strong>If We Did This Project Again Today</strong><br>
+My experience with React in a production setting since this project has sharpened two priorities:</p>
+<ul>
+<li><a href="https://tanstack.com/query/docs">Tanstack-Query</a>. This is a lifesaver in terms of sanity, because it keeps your API logic separate from your JSX. A simple useQuery will cache your data for you and allow you to easily display a loading screen or error message, all in a few lines of code.</li>
+<li><strong>TypeScript.</strong> Typing API payloads and props up front turns shape bugs into compile-time errors. It also massively increases readability and therefore maintainability.</li>
+</ul>
+<p><strong>Repos</strong></p>
+<ul>
+<li><a href="https://github.com/FoodBridge-2025/foodbridge-ui">UI</a></li>
+<li><a href="https://github.com/orgs/FoodBridge-2025/repositories">Organization</a></li>
+</ul>
+
+  </div>
+</article>
+
+    </div>
+  </main>
+  
+<footer>
+  © Nathan Mandell 2025. This website was made in Hugo.
+</footer>
+
+
+</body>
+
+</html>

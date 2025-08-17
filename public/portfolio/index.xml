@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on My New Hugo Site</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSV-Backed To-Do CLI (Rust)</title>
+      <link>http://localhost:1313/portfolio/rust-cli/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/rust-cli/</guid>
+      <description>A tiny, fast command-line to-do manager that persists tasks in a plain CSV file—simple to inspect, easy to version, and zero setup beyond the binary.</description>
+    </item>
+    <item>
+      <title>FoodBridge — Geolocated Donation Matcher</title>
+      <link>http://localhost:1313/portfolio/foodbridge/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/foodbridge/</guid>
+      <description>A hackathon-built platform that connects local donors with nearby food pantries. I owned the &lt;strong&gt;React&lt;/strong&gt; UI which helped food pantries see potential donors and put out requests for specific products.</description>
+    </item>
+    <item>
+      <title>QuickTask</title>
+      <link>http://localhost:1313/portfolio/quicktask/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/quicktask/</guid>
+      <description>A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.</description>
+    </item>
+  </channel>
+</rss>
