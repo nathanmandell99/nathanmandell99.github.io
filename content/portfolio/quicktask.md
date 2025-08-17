@@ -1,6 +1,6 @@
 ---
 title: QuickTask
-date: 2025-06-25
+date: 2025-05-22
 summary: A clean, minimal to-do app that runs on the web, iOS, and Android with one codebase. Keep your tasks on one, non-persistent list, so that you know you will complete what you write down. Built to be fast to try, easy to use, and pleasant to look at.
 ---
 
