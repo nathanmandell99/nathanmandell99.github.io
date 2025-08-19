@@ -35,10 +35,10 @@ QuickTask is a small but complete example of shipping a cross-platform UI with E
   
 ![create](/img/quicktask/create-task.gif)
   
-*Delete task*  
-  
-![delete](/img/quicktask/delete-task.gif)
-  
 *Mark complete*  
   
 ![complete](/img/quicktask/mark-complete.gif)
+  
+*Delete task*  
+  
+![delete](/img/quicktask/delete-task.gif)
