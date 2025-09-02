@@ -30,6 +30,7 @@ title: Resume
 - **Research Assistant, [Hyperlight Micro Virtual Machine Manager](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)** — Professor Kostis Kaffes, Columbia University — *New York, NY*  
   *June 2025 - Present*  
   - Ported CPU benchmark program from Go to Rust for use in micro VM environment.
+  - Wrote stress tests to benchmark performance of concurrent micro VMs.
 
 ---
 
