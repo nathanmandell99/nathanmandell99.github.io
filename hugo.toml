@@ -1,7 +1,6 @@
 baseURL = "https://nathanmandell99.github.io/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-# theme = 'ananke'
+title = 'Nathan Mandell'
 [params]
 name = "Nathan Mandell"
 
