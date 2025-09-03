@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Nathan Mandell | Home
 ---
 
 ## Nathan Mandell

@@ -1,3 +1,6 @@
+---
+title: Nathan Mandell | Resume
+---
 # Nathan Mandell
 
 **New York, NY** · +1 (646) 363-9378  

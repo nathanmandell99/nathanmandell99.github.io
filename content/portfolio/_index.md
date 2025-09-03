@@ -1,3 +1,3 @@
 ---
-title: Portfolio
+title: Nathan Mandell | Portfolio
 ---
