@@ -1,7 +1,3 @@
----
-title: Resume
----
-
 # Nathan Mandell
 
 **New York, NY** · +1 (646) 363-9378  
@@ -30,7 +26,6 @@ title: Resume
 - **Research Assistant, [Hyperlight Micro Virtual Machine Manager](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)** — Professor Kostis Kaffes, Columbia University — *New York, NY*  
   *June 2025 - Present*  
   - Ported CPU benchmark program from Go to Rust for use in micro VM environment.
-  - Wrote stress tests to benchmark performance of concurrent micro VMs.
 
 ---
 
@@ -42,11 +37,27 @@ title: Resume
 - **Anagram Finder (Data Structures/Algorithms course project)**  
   Built a Java CLI that indexes a user-provided dictionary by sorted-character signatures and prints anagrams in lexicographic order. Implemented interchangeable backends—BST, AVL tree, and hash map—for efficient lookups.
 
-- **[Meeting Match](https://github.com/Meeting-Match/) (Cloud Computing course project)**  
+- **[Meeting Match](https://github.com/Meeting-Match/)** (Cloud Computing course project)  
   Led development of a meeting scheduler with three Django REST microservices and a composite service secured by JWT authentication. Built and integrated a Next.js frontend for seamless scheduling.
 
 - **[FoodBridge](https://github.com/FoodBridge-2025/foodbridge-ui) (DevFest 2025)**  
   Built React frontend with OpenStreetMap API integration to geolocate and connect donors to local food pantries.
 
 - **[QuickTask](https://github.com/nathanmandell99/QuickTask)**  
-  Created a cross-platform task management app for web, iOS, and Android using React Native, focusing o
+  Created a cross-platform task management app for web, iOS, and Android using React Native, focusing on a clean UI and efficient task organization.
+
+---
+
+## Skills
+
+**Languages:** Python, Java, C, C++, Rust, HTML, CSS, JavaScript/TypeScript  
+**Tools:** Git, GitHub, Expo, AWS EC2, Postman  
+**Frameworks & Libraries:** Django, FastAPI, React, React Native, ASP.NET
+
+---
+
+## Leadership & Extracurriculars
+
+- Participant of DevFest 2025 Hackathon  
+- President of Columbia University Orthodox Christian Fellowship  
+- Former officer for Phi Theta Kappa Honor Society, Borough of Manhattan Community College chapter
