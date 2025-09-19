@@ -40,7 +40,7 @@ title: Nathan Mandell | Resume
 - **Anagram Finder (Data Structures/Algorithms course project)**  
   Built a Java CLI that indexes a user-provided dictionary by sorted-character signatures and prints anagrams in lexicographic order. Implemented interchangeable backends—BST, AVL tree, and hash map—for efficient lookups.
 
-- **[Meeting Match](https://github.com/Meeting-Match/)** (Cloud Computing course project)  
+- **[Meeting Match](https://github.com/Meeting-Match/) (Cloud Computing course project)**  
   Led development of a meeting scheduler with three Django REST microservices and a composite service secured by JWT authentication. Built and integrated a Next.js frontend for seamless scheduling.
 
 - **[FoodBridge](https://github.com/FoodBridge-2025/foodbridge-ui) (DevFest 2025)**  
