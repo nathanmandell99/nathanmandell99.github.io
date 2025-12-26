@@ -12,7 +12,7 @@ title: Nathan Mandell | Resume
 
 - **Bachelor of Arts, Computer Science**, Columbia University — GPA: 3.7  
   *Expected May 2026*  
-  Coursework: Data Structures and Algorithms, Advanced Programming, Intro to Databases, Cloud Computing, Operating Systems
+  Coursework: Data Structures and Algorithms, Advanced Programming, Intro to Databases, Cloud Computing, Operating Systems, Distributed Systems
 
 - **Associate of Arts, Liberal Arts**, Borough of Manhattan Community College — GPA: 3.96  
   *August 2023*
@@ -23,16 +23,21 @@ title: Nathan Mandell | Resume
 
 - **Software Engineer Intern**, Techneosis, LLC — *New York, NY*  
   *July 2025 - Present*  
-  - Designed and implemented new mobile app features during a major product pivot.  
-  - Refactor TypeScript React Native codebase, reducing redundant code by 25% and improving maintainability.
+  - Design and implement new mobile app features during a major product pivot.  
+  - Refactor TypeScript React Native codebase, reducing redundant code by 25% and improving maintainability.  
+  - Consolidate legacy Spring Boot and NestJS microservices into a single Django service to simplify architecture and maintenance.
 
 - **Research Assistant, [Hyperlight Micro Virtual Machine Manager](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)** — Professor Kostis Kaffes, Columbia University — *New York, NY*  
   *June 2025 - Present*  
   - Ported CPU benchmark program from Go to Rust for use in micro VM environment.
+  - Wrote stress tests to benchmark performance of concurrent micro VMs.
 
 ---
 
 ## Projects
+
+- **ShardKV (Distributed Systems course project)  
+  Implemented a distributed, sharded key–value store in Go with dynamic rebalancing and fault-tolerant replication; built a multi-Paxos–based consensus layer and shardmaster service to coordinate reconfiguration and state machine replication across replica groups.
 
 - **Linux File System (Operating Systems course project)**  
   Coded fully functioning Linux file system from the ground up in C, supporting file creation, deletion, and metadata storage.
@@ -43,9 +48,6 @@ title: Nathan Mandell | Resume
 - **[Meeting Match](https://github.com/Meeting-Match/) (Cloud Computing course project)**  
   Led development of a meeting scheduler with three Django REST microservices and a composite service secured by JWT authentication. Built and integrated a Next.js frontend for seamless scheduling.
 
-- **[FoodBridge](https://github.com/FoodBridge-2025/foodbridge-ui) (DevFest 2025)**  
-  Built React frontend with OpenStreetMap API integration to geolocate and connect donors to local food pantries.
-
 - **[QuickTask](https://github.com/nathanmandell99/QuickTask)**  
   Created a cross-platform task management app for web, iOS, and Android using React Native, focusing on a clean UI and efficient task organization.
 
@@ -54,7 +56,7 @@ title: Nathan Mandell | Resume
 ## Skills
 
 **Languages:** Python, Java, C, C++, Rust, HTML, CSS, JavaScript/TypeScript  
-**Tools:** Git, GitHub, Expo, AWS EC2, Postman  
+**Tools:** MySQL, Git, GitHub, Expo, AWS EC2, Postman  
 **Frameworks & Libraries:** Django, FastAPI, React, React Native, ASP.NET
 
 ---
