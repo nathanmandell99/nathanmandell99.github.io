@@ -36,7 +36,7 @@ title: Nathan Mandell | Resume
 
 ## Projects
 
-- **ShardKV (Distributed Systems course project)  
+- **ShardKV (Distributed Systems course project)**  
   Implemented a distributed, sharded key–value store in Go with dynamic rebalancing and fault-tolerant replication; built a multi-Paxos–based consensus layer and shardmaster service to coordinate reconfiguration and state machine replication across replica groups.
 
 - **Linux File System (Operating Systems course project)**  
