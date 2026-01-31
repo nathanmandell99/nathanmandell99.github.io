@@ -3,15 +3,19 @@ title: Reflection on Sant'Apollinare in Classe
 date: 2026-01-30
 ---
 
-*I wrote this for my spring 2026 section of* Masterpieces of Western Art *at Columbia. A lot of what I write here is probably influenced by [this excellent article](https://orthodoxartsjournal.org/the-mosaic-apse-of-santapollinaire-in-classe-ravenna/), which I read before viewing this mosaic in person in the summer of 2024.
+*I wrote this for my spring 2026 section of* Masterpieces of Western Art *at Columbia. A lot of what I write here is probably influenced by [this excellent article](https://orthodoxartsjournal.org/the-mosaic-apse-of-santapollinaire-in-classe-ravenna/), which I read before viewing this mosaic in person in the summer of 2024.*
 
-![sant-apollinare](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ravenna_SantApollinare_Classe_0115.jpg)
+![sant-apollinare](https://s3.us-east-2.wasabisys.com/media-oaj/wp-content/uploads/2017/12/02111747/2-copy.jpg)
+*Apse mosaic of the* Transfiguration, *Sant'Apollinare in Classe, near Ravenna, Italy.*  
+  
 
 The apse mosaic of the *Transfiguration* at the Basilica of Sant'Apollinare in Classe has stuck with me the most out of all the early Christian monuments I saw in Ravenna, and indeed the most out of all the art that I saw while studying abroad in Venice. 
 
 The mosaic is highly idiosyncratic in how it depicts this scene from the Gospels, commonly represented in late antique and medieval art. Typically, the figure of Christ stands on the top of a mountain in the center, surrounded by a mandorla. The prophets Moses and Elijah flank him to the left and right, and Peter, James, and John are all below, often on the ground and covering their eyes. Often, though not always, a hand is visible at the top, hinting at God the Father, whose voice the three disciples hear in this scene.
 
-![transfiguration](https://www.art-prints-on-demand.com/kunst/byzantine/Portable-icon-depicting-the-transfiguration.jpg)
+![transfiguration](https://www.art-prints-on-demand.com/kunst/byzantine/Portable-icon-depicting-the-transfiguration.jpg)  
+*A typical depiction of the* Transfiguration.  
+  
 
 When first viewing this mosaic, however, it is actually not even obvious at all that it is depicting the *Transfiguration.* In the center is not the standing figure of Christ, but rather a large golden cross, set within a blue orb decorated with stars. Three sheep flank the cross, and it is set not on a mountain, but in a verdant garden or field set against a golden sky. Below the cross and the orb stands St. Apolenaris, traditionally the first bishop of Ravenna and who was said to be martyred there, in the *orans* pose. St. Apolenaris was, of course, not present at the *Transfiguration!*
 

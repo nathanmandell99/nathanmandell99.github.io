@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Nathan Mandell</title>
+    <title>Nathan Mandell | Blog on Nathan Mandell</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog on Nathan Mandell</description>
+    <description>Recent content in Nathan Mandell | Blog on Nathan Mandell</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection on Sant&#39;Apollinare in Classe</title>
+      <link>http://localhost:1313/posts/sant-apollinare/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sant-apollinare/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I wrote this for my spring 2026 section of&lt;/em&gt; Masterpieces of Western Art &lt;em&gt;at Columbia. A lot of what I write here is probably influenced by &lt;a href=&#34;https://orthodoxartsjournal.org/the-mosaic-apse-of-santapollinaire-in-classe-ravenna/&#34;&gt;this excellent article&lt;/a&gt;, which I read before viewing this mosaic in person in the summer of 2024.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://s3.us-east-2.wasabisys.com/media-oaj/wp-content/uploads/2017/12/02111747/2-copy.jpg&#34; alt=&#34;sant-apollinare&#34;&gt;&#xA;&lt;em&gt;Apse mosaic of the&lt;/em&gt; Transfiguration, &lt;em&gt;Sant&amp;rsquo;Apollinare in Classe, near Ravenna, Italy.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The apse mosaic of the &lt;em&gt;Transfiguration&lt;/em&gt; at the Basilica of Sant&amp;rsquo;Apollinare in Classe has stuck with me the most out of all the early Christian monuments I saw in Ravenna, and indeed the most out of all the art that I saw while studying abroad in Venice.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Minimalism and Medievalism in Arvo Pärt</title>
       <link>http://localhost:1313/posts/arvo-part/</link>
